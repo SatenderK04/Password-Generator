@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body {
+  background-color: rgb(17, 10, 71);
+  color: white;
+}
+
+h1 {
+  text-align: center;
+  position: absolute;
+  background-color: rgb(33, 33, 112);
+  padding: 1rem 1.25rem;
+  border-radius: 50px;
+  top: 20%;
+  left: 50%;
+  transform: translateX(-50%);
+}
