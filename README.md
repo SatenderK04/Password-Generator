@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
 
 # Link Below to try it out.
-(Try It)[https://66a675ba975f4c580f977a94--silver-strudel-e7081d.netlify.app/]
+[Try It](https://66a675ba975f4c580f977a94--silver-strudel-e7081d.netlify.app/)
